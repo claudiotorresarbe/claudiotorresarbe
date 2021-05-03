@@ -9,3 +9,4 @@
 <h3>Sobre mim</h3>
 <p>Linguagens de programação: Python, PLSQL, MQL5</p>
 <p>Business Intelligence: Qlik, OBIEE, PowerBI</p>
+<p>Database: Oracle, MySql, Sqlite</p>
