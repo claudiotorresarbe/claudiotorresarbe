@@ -6,3 +6,6 @@
 <p>:camera: <a href="https://www.instagram.com/ctarbe/">Instagram</a></p>
 <p>:page_with_curl: <a href="claudiotorresarbe.github.io">Meu site git</a></p>
 <p>:email: claudiotarbe@gmail.com</p>
+<h3>Sobre mim</h3>
+<p>Linguagens de programação: Python, PLSQL, MQL5</p>
+<p>Business Intelligence: Qlik, OBIEE, PowerBI</p>
