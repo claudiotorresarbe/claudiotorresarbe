@@ -1,2 +1,2 @@
 <h1>Bem vindo!</h1>
-<p>Arrasta para cima para ver todos os meus repositórios.</p>
+<p>Veja todos os meus repositórios, é só arrastar pra cima!</p>
